@@ -372,7 +372,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
-  pg
+  pg (~> 1.1)
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.1)
@@ -388,4 +388,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.5.17
+   2.6.5
